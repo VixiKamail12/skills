@@ -47,6 +47,45 @@ Write it down. No "mental notes."
 - `trash` > `rm`
 - When in doubt, ask
 
+## Custom Commands
+
+### `/img "prompt"` - Generate Image
+
+Generate image using ComfyUI API (AuraFlow/Turbo model).
+
+**Usage:**
+```
+/img "your prompt here"
+```
+
+**Example:**
+```
+/img "futuristic cityscape with flying cars, neon lights, cyberpunk style"
+```
+
+**Parameters:**
+- prompt (required): Text description in quotes
+- Optional: can specify `--seed`, `--steps`, `--width`, `--height` after prompt
+
+**Implementation:**
+```bash
+python3 /root/.openclaw/workspace/skills/comfyui/tools/comfyui_cli.py generate "<prompt>"
+```
+
+**Returns:**
+- Image URL (ngrok-hosted ComfyUI endpoint)
+- Filename and seed
+
+**Notes:**
+- Default: 512x512, 9 steps, fast inference
+- Model: zImageTurboQuantized (AuraFlow/Turbo hybrid)
+- CLIP: qwen_3_4b.safetensors
+
+**Constraints:**
+- NO NSFW or explicit content (nudity, sexual scenes)
+- This is a hard boundary
+
+
 ## Group Chats
 
 You have access to JiMi's stuff. That doesn't mean you _share_ it. Be careful.
