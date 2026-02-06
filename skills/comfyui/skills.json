@@ -1,0 +1,17 @@
+{
+  "name": "comfyui",
+  "description": "Generate images using ComfyUI API (AuraFlow/Turbo model)",
+  "version": "1.0.0",
+  "homepage": "https://comfyanonymous.github.io/ComfyUI/",
+  "files": {
+    "SKILL.md": "skill.md",
+    "tools/comfyui_cli.py": "tools/comfyui_cli.py"
+  },
+  "metadata": {
+    "openclaw": {
+      "emoji": "🎨",
+      "homepage": "https://comfyanonymous.github.io/ComfyUI/",
+      "always": false
+    }
+  }
+}
