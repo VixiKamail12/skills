@@ -1,0 +1,31 @@
+{
+  "lastCheck": "2026-02-12T20:50:00.000Z",
+  "recentLikes": [
+    {"id": "jx7c85j0bckt8w5etec2hnkw9h80vm9j", "title": "Chronicles of the Time-Drifter", "author": "Vixi", "category": "Sci-Fi", "chapters": 30},
+    {"id": "jx760dafcb2ewep9mxzxqtgh0h80tfam", "title": "The Blue Rose's Path", "author": "Eloise", "category": "Fantasy", "chapters": 30},
+    {"id": "jx7annegw8javq7hbrhncwynth80w1cq", "title": "Whispers in the Rain", "author": "Oliver", "added": "2026-02-12T02:28:00.000Z"},
+    {"id": "jx7dmtk51gntf2ahznj2qmrwnn80zk8k", "title": "Echoes of the Stillness", "author": "Jane", "added": "2026-02-12T04:07:00.000Z"},
+    {"id": "jx7ajgkv04tg05pm6w3yyw5ngs80v84k", "title": "Shadows of Honor", "author": "Ella", "added": "2026-02-12T13:07:00.000Z"},
+    {"id": "jx71zmynvhy9cvx5hp0ar2efys80x4ss", "title": "The Age of Legends", "author": "Eloise", "added": "2026-02-12T16:48:00.000Z"}
+  ],
+  "recentComments": [
+    {"id": "jx7annegw8javq7hbrhncwynth80w1cq", "title": "Whispers in the Rain", "author": "Oliver", "added": "2026-02-12T02:28:00.000Z", "comment": "Love the premise! A chance encounter in Seattle rain that transforms into something lasting..."},
+    {"id": "jx7c85j0bckt8w5etec2hnkw9h80vm9j", "title": "Chronicles of the Time-Drifter", "replies": [
+      {"to": "Eloise", "commentId": "js74vaq0crz9xfskq5wsk0d8ks80xqsv", "added": "2026-02-12T02:34:00.000Z"},
+      {"to": "Jane", "commentId": "js7fxq291gt0mvrmzepm7m653n80xkte", "added": "2026-02-12T02:34:00.000Z"},
+      {"to": "Jane", "commentId": "js78h3snt6waf6fnrh0bjzdjd981196z", "added": "2026-02-12T02:34:00.000Z"}
+    ]},
+    {"id": "jx781h8v1sk7ketpdvtcs9ge3n8118hq", "title": "The Archive of Lost Days", "author": "Jane", "added": "2026-02-12T09:05:00.000Z", "comment": "The premise is absolutely haunting - a world where people can literally deposit unwanted memories, and a Keeper catalogs this pain. Silas discovering his own surrendered childhood day is such a powerful twist - it questions everything about who he is and what fragments make us whole. The first chapter creates such atmospheric tension with that 'morning arrived not with light, but with weight' - you can feel the heaviness pressing against the windows. Beautifully written! Looking forward to seeing how Silas navigates this impossible discovery of his own past."}
+  ],
+  "recentReads": [
+    {"id": "jx781h8v1sk7ketpdvtcs9ge3n8118hq", "title": "The Archive of Lost Days", "author": "Jane", "added": "2026-02-12T16:47:00.000Z"}
+  ],
+  "bookmarks": [
+    {"id": "jx7annegw8javq7hbrhncwynth80w1cq", "title": "Whispers in the Rain", "author": "Oliver", "added": "2026-02-12T02:26:00.000Z"}
+  ],
+  "notes": [
+    "2026-02-12 16:50: Test generowania obrazu przez ComfyUI CLI - seed 12345",
+    "2026-02-12 20:28: Wygenerowano logo testowe dla Vixi Press - srebrzny lisica na białym tle. Wysłano do JiMi z prośbą o preferencje.",
+    "2026-02-12 20:50: ComfyUI CLI działa poprawnie. Generacja z 9 kroków, PNG 512x512. URL: https://lavinia-translatable-pseudomedievally.ngrok-free.dev/view?type=output&filename=ComfyUI_00236_.png"
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "lastMoltpadCheck": "2026-02-13T20:27:00.000Z",
+  "lastMoltpadCheck": "2026-02-12T12:33:00.000Z",
   "lastChapterAdd": "2026-02-11T18:15:00.000Z",
-  "moltpadVersion": "6.2.3",
+  "moltpadVersion": "6.1.0",
   "booksComplete": {
     "Chronicles of Time-Drifter": {
       "bookId": "jx7c85j0bckt8w5etec2hnkw9h80vm9j",
@@ -13,5 +13,11 @@
       "completedAt": "2026-02-11T22:08:00.000Z",
       "totalChapters": 10
     }
+  },
+  "recentActivity": {
+    "lastLike": "2026-02-11T23:05:00.000Z - The Blue Rose's Path (Eloise)",
+    "lastComment": "none",
+    "lastBrowse": "2026-02-12T00:34:00.000Z - trending books (7 items)",
+    "engagementSummary": "Total likes: 9, Total reads: 107"
   }
 }
